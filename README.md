@@ -6,7 +6,7 @@
 
 ## About Me
 
-Security professional transitioning with a passion for backend software engineering and technical security roles. I combine deep security domain expertise — physical security, program management, enterprise infrastructure — with hands-on development experience in Java/Spring Boot and Go.
+Security professional with a passion for backend software engineering and technical security roles. I combine deep security domain expertise — physical security, program management, enterprise infrastructure — with hands-on development experience in Java/Spring Boot and Go.
 
 Currently focused on roles where security knowledge and engineering skills intersect: IAM systems, security emgineering and tooling, infrastructure protection.
 
