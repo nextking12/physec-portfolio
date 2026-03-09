@@ -26,7 +26,8 @@ Sanitized security playbooks and operational guides I've developed:
 ### 💻 [Projects](https://github.com/nextking12)
 Code samples and personal projects:
 - **SPM Backend** — Spring Boot application migrated to Go (demonstrates learning journey)
-- Additional samples TBD
+- **Script Manager** -- Useful tool for creating and storing scripts for quick reference
+- **PACS** -- Work in progress. Goal is to replacate a PACS setup in C. Eventual integration with hardware in the future
 
 ---
 
