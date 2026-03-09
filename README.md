@@ -15,7 +15,7 @@ Currently focused on roles where security knowledge and engineering skills inter
 ## What's Here
 
 ### 📄 [Resume](./resume/)
-Current resume highlighting both security program management and engineering experience.
+Current resume highlighting both security program management and engineering experience. Please contact me for latest version
 
 ### 📋 [Playbooks](./playbook_ex/)
 Sanitized security playbooks and operational guides I've developed:
